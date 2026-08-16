@@ -9,7 +9,7 @@
   "hero": {
     "tag": "Full Stack Software Developer",
     "title": "Building Scalable Digital Systems",
-    "name": "Abdulrahman Khalid Abdullah Redhwan",
+    "name": "Mohammed AbdullhakimnAgrah",
     "desc": "Senior Full Stack Developer and Systems Architect with 10+ years of experience specializing in backend architecture, high-performance APIs, and scalable web applications.",
     "viewProjects": "View Projects",
     "contactMe": "Contact Me"
@@ -17,7 +17,7 @@
   "about": {
     "tag": "About Me",
     "title": "Architecting robust systems for the modern web.",
-    "p1": "I am Abdulrahman Khalid Abdullah Redhwan, a Full Stack Software Developer with more than 10 years of experience. I specialize primarily in backend development, system architecture, and building scalable web applications that stand the test of time.",
+    "p1": "I am Mohammed AbdullhakimnAgrah, a Full Stack Software Developer with more than 10 years of experience. I specialize primarily in backend development, system architecture, and building scalable web applications that stand the test of time.",
     "p2": "My expertise spans multiple programming languages and frameworks, with a proven track record of building modern web platforms, e-commerce systems, robust APIs, and microservices. I am deeply passionate about clean code, design patterns, performance optimization, and Big O analysis.",
     "stats": {
       "years": "Years Experience",
@@ -129,7 +129,7 @@
       "subject": "Subject",
       "message": "Message",
       "placeholder": {
-        "name": "Abdulrahman Redhwan",
+        "name": "Mohammed AbdullhakimnAgrah",
         "email": "hakim@gmail.com",
         "subject": "Project Inquiry",
         "message": "Tell me about your project needs..."
