@@ -6,16 +6,16 @@ export default function Hero() {
   const { t } = useTranslation();
 
   const socials = [
-    { icon: Github, href: 'https://github.com/ak01redwan', label: 'GitHub' },
-    { icon: Linkedin, href: 'https://www.linkedin.com/in/ak01redwan', label: 'LinkedIn' },
-    { icon: Twitter, href: 'https://x.com/ak01redwan', label: 'X' },
-    { icon: Terminal, href: 'https://stackoverflow.com/users/ak01redwan', label: 'Stack Overflow' },
-    { icon: Code2, href: 'https://dev.to/ak01redwan', label: 'Dev.to' },
-    { icon: PenTool, href: 'https://medium.com/@ak01redwan', label: 'Medium' },
-    { icon: Box, href: 'https://codepen.io/ak01redwan', label: 'CodePen' },
-    { icon: Image, href: 'https://www.behance.net/ak01redwan', label: 'Behance' },
-    { icon: Dribbble, href: 'https://dribbble.com/ak01redwan', label: 'Dribbble' },
-    { icon: Mail, href: 'mailto:ak01redwan@gmail.com', label: 'Email' },
+    { icon: Github, href: 'https://github.com/hakim', label: 'GitHub' },
+    { icon: Linkedin, href: 'https://www.linkedin.com/in/hakim', label: 'LinkedIn' },
+    { icon: Twitter, href: 'https://x.com/hakim', label: 'X' },
+    { icon: Terminal, href: 'https://stackoverflow.com/users/hakim', label: 'Stack Overflow' },
+    { icon: Code2, href: 'https://dev.to/hakim', label: 'Dev.to' },
+    { icon: PenTool, href: 'https://medium.com/@hakim', label: 'Medium' },
+    { icon: Box, href: 'https://codepen.io/hakim', label: 'CodePen' },
+    { icon: Image, href: 'https://www.behance.net/hakim', label: 'Behance' },
+    { icon: Dribbble, href: 'https://dribbble.com/hakim', label: 'Dribbble' },
+    { icon: Mail, href: 'mailto:hakim@gmail.com', label: 'Email' },
     { icon: Phone, href: 'tel:+967776248526', label: 'Phone' },
   ];
 
@@ -92,7 +92,7 @@ export default function Hero() {
           >
             <div className="relative z-10 w-full aspect-square rounded-3xl overflow-hidden border-8 border-white dark:border-slate-900 shadow-2xl">
               <img 
-                src="https://picsum.photos/seed/ak01redwan/800/800" 
+                src="https://picsum.photos/seed/hakim/800/800" 
                 alt={t('hero.name')} 
                 className="w-full h-full object-cover"
                 referrerPolicy="no-referrer"

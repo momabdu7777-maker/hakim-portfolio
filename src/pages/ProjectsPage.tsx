@@ -30,7 +30,7 @@ export default function ProjectsPage() {
             {t('projects.more.desc')}
           </p>
           <a 
-            href="https://github.com/ak01redwan" 
+            href="https://github.com/hakim" 
             target="_blank" 
             rel="noopener noreferrer"
             className="px-8 py-4 bg-slate-900 dark:bg-white text-white dark:text-slate-900 rounded-xl font-bold hover:scale-105 transition-transform inline-block"

@@ -6,15 +6,15 @@ export default function Contact() {
   const { t } = useTranslation();
 
   const socials = [
-    { icon: Github, href: 'https://github.com/ak01redwan', label: 'GitHub' },
-    { icon: Linkedin, href: 'https://www.linkedin.com/in/ak01redwan', label: 'LinkedIn' },
-    { icon: Twitter, href: 'https://x.com/ak01redwan', label: 'X' },
-    { icon: Terminal, href: 'https://stackoverflow.com/users/ak01redwan', label: 'Stack Overflow' },
-    { icon: Code2, href: 'https://dev.to/ak01redwan', label: 'Dev.to' },
-    { icon: PenTool, href: 'https://medium.com/@ak01redwan', label: 'Medium' },
-    { icon: Box, href: 'https://codepen.io/ak01redwan', label: 'CodePen' },
-    { icon: Image, href: 'https://www.behance.net/ak01redwan', label: 'Behance' },
-    { icon: Dribbble, href: 'https://dribbble.com/ak01redwan', label: 'Dribbble' },
+    { icon: Github, href: 'https://github.com/hakim', label: 'GitHub' },
+    { icon: Linkedin, href: 'https://www.linkedin.com/in/hakim', label: 'LinkedIn' },
+    { icon: Twitter, href: 'https://x.com/hakim', label: 'X' },
+    { icon: Terminal, href: 'https://stackoverflow.com/users/hakim', label: 'Stack Overflow' },
+    { icon: Code2, href: 'https://dev.to/hakim', label: 'Dev.to' },
+    { icon: PenTool, href: 'https://medium.com/@hakim', label: 'Medium' },
+    { icon: Box, href: 'https://codepen.io/hakim', label: 'CodePen' },
+    { icon: Image, href: 'https://www.behance.net/hakim', label: 'Behance' },
+    { icon: Dribbble, href: 'https://dribbble.com/hakim', label: 'Dribbble' },
   ];
 
   return (
@@ -40,7 +40,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <p className="text-sm font-medium text-slate-500 uppercase tracking-wider">{t('contact.info.email')}</p>
-                  <p className="text-lg font-bold">ak01redwan@gmail.com</p>
+                  <p className="text-lg font-bold">hakim@gmail.com</p>
                 </div>
               </div>
 

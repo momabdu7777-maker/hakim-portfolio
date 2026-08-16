@@ -8,15 +8,15 @@ export default function Footer() {
   };
 
   const socials = [
-    { icon: Github, href: 'https://github.com/ak01redwan', label: 'GitHub' },
-    { icon: Linkedin, href: 'https://www.linkedin.com/in/ak01redwan', label: 'LinkedIn' },
-    { icon: Twitter, href: 'https://x.com/ak01redwan', label: 'X' },
-    { icon: Terminal, href: 'https://stackoverflow.com/users/ak01redwan', label: 'Stack Overflow' },
-    { icon: Code2, href: 'https://dev.to/ak01redwan', label: 'Dev.to' },
-    { icon: PenTool, href: 'https://medium.com/@ak01redwan', label: 'Medium' },
-    { icon: Box, href: 'https://codepen.io/ak01redwan', label: 'CodePen' },
-    { icon: Image, href: 'https://www.behance.net/ak01redwan', label: 'Behance' },
-    { icon: Dribbble, href: 'https://dribbble.com/ak01redwan', label: 'Dribbble' },
+    { icon: Github, href: 'https://github.com/hakim', label: 'GitHub' },
+    { icon: Linkedin, href: 'https://www.linkedin.com/in/hakim', label: 'LinkedIn' },
+    { icon: Twitter, href: 'https://x.com/hakim', label: 'X' },
+    { icon: Terminal, href: 'https://stackoverflow.com/users/hakim', label: 'Stack Overflow' },
+    { icon: Code2, href: 'https://dev.to/hakim', label: 'Dev.to' },
+    { icon: PenTool, href: 'https://medium.com/@hakim', label: 'Medium' },
+    { icon: Box, href: 'https://codepen.io/hakim', label: 'CodePen' },
+    { icon: Image, href: 'https://www.behance.net/hakim', label: 'Behance' },
+    { icon: Dribbble, href: 'https://dribbble.com/hakim', label: 'Dribbble' },
     { icon: Phone, href: 'tel:+967776248526', label: 'Phone' },
   ];
 
@@ -29,7 +29,7 @@ export default function Footer() {
               AK01<span className="text-emerald-500">.</span>REDWAN
             </a>
             <p className="text-sm text-slate-500 mt-2">
-              © {new Date().getFullYear()} ak01redwan. {t('footer.rights')}
+              © {new Date().getFullYear()} hakim. {t('footer.rights')}
             </p>
           </div>
 
