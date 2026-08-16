@@ -14,7 +14,7 @@ export default function BlogPost() {
     date: 'March 15, 2024',
     excerpt: t(`blog.posts.${id}.excerpt`),
     category: t(`blog.posts.${id}.category`),
-    author: 'AK01.REDWAN',
+    author: 'mohammed.hakim',
     content: `
       <p class="mb-6">This is a placeholder for the full blog post content. In a production environment, this content would be fetched from a CMS or a Markdown file.</p>
       <h2 class="text-2xl font-bold mb-4">The Importance of Modern Web Architecture</h2>
