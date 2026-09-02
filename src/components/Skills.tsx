@@ -14,7 +14,7 @@ export default function Skills() {
     {
       title: t('skills.categories.frontend'),
       icon: <Layout className="text-blue-500" />,
-      skills: ['JavaScript', 'React', 'Next.js', 'Vue.js', 'Blade', 'Bootstrap', 'HTML/CSS'],
+      skills: ['JavaScript', 'Blade', 'Bootstrap', 'HTML/CSS'],
     },
     {
       title: t('skills.categories.databases'),
