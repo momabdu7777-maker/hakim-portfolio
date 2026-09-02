@@ -84,11 +84,10 @@ export default function Hero() {
             transition={{ duration: 0.8, delay: 0.2 }}
           >
             <div className="relative z-10 w-full aspect-square rounded-3xl overflow-hidden border-8 border-white dark:border-slate-900 shadow-2xl">
-              <img 
-                src="https://picsum.photos/seed/hakim/800/800" 
-                alt={t('hero.name')} 
+              <img
+                src="/mohammed-hakim.jpg"
+                alt={t('hero.name')}
                 className="w-full h-full object-cover"
-                referrerPolicy="no-referrer"
               />
             </div>
             {/* Decorative elements */}

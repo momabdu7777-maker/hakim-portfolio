@@ -24,7 +24,7 @@ export default function Skills() {
     {
       title: t('skills.categories.devops'),
       icon: <Terminal className="text-orange-500" />,
-      skills: ['Linux', 'Nginx', 'PHP-FPM', 'Supervisor', 'PM2', 'Node.js', 'DNS & SSL', 'Git', 'Composer'],
+      skills: ['Linux', 'Docker', 'Docker Compose', 'CI/CD', 'Nginx', 'PHP-FPM', 'Supervisor', 'PM2', 'Git', 'GitHub', 'Docker Hub'],
     },
   ];
 

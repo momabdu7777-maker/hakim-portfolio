@@ -10,15 +10,15 @@
     "tag": "Laravel Backend Developer | DevOps Engineer",
     "title": "Building Reliable Backend Systems",
     "name": "Mohammed Hakim Awad Ajrah",
-    "desc": "Laravel Backend Developer and DevOps Engineer with 2 years of hands-on experience in backend development, RESTful APIs, Linux server administration, and production troubleshooting.",
+    "desc": "Laravel Backend Developer and DevOps Engineer with 2 years of hands-on experience building RESTful APIs, managing MySQL databases, containerizing applications with Docker, and deploying to production Linux servers.",
     "viewProjects": "View Projects",
     "contactMe": "Contact Me"
   },
   "about": {
     "tag": "About Me",
     "title": "Building and running backend systems end to end.",
-    "p1": "I am Mohammed Hakim Awad Ajrah, a Laravel Backend Developer and DevOps Engineer with 2 years of hands-on professional experience in backend development, RESTful API development, server deployment, Linux administration, and production troubleshooting.",
-    "p2": "I build and maintain Laravel applications, develop APIs, integrate third-party services, manage MySQL databases, configure Nginx and PHP-FPM, deploy applications to Linux servers, and troubleshoot complex production issues across the full stack.",
+    "p1": "I am Mohammed Hakim Awad Ajrah, a Laravel Backend Developer and DevOps Engineer with 2 years of hands-on professional experience building RESTful APIs, managing MySQL databases, deploying on Linux servers, and containerizing applications with Docker.",
+    "p2": "I build and maintain Laravel applications, develop APIs, integrate third-party services, manage MySQL databases, configure Nginx and PHP-FPM, containerize services with Docker and Docker Compose, and deploy through Git and CI/CD workflows to production Linux servers.",
     "stats": {
       "years": "Years Experience",
       "projects": "Production Projects",
@@ -27,8 +27,8 @@
     },
     "features": {
       "f1": "Laravel & REST APIs",
-      "f2": "Linux Server Administration",
-      "f3": "Production Deployment",
+      "f2": "Docker & Containerization",
+      "f3": "CI/CD & Deployment",
       "f4": "Production Troubleshooting"
     },
     "philosophy": {
@@ -62,25 +62,21 @@
     "viewAll": "View All Projects",
     "more": {
       "title": "Looking for more?",
-      "desc": "I have worked on delivery platforms, admin systems, and Node.js integrations, alongside deploying and maintaining the Linux servers that run them. Let's discuss how my experience can help your project.",
+      "desc": "I have worked on multiple Laravel-based systems involving REST APIs, e-commerce, restaurant and delivery platforms, multilingual systems, notifications, payment/service integrations, AI APIs, and production server infrastructure. Let's discuss how my experience can help your project.",
       "github": "Visit My GitHub"
     },
     "items": {
-      "delivery": {
-        "title": "Laravel Delivery & Restaurant Platform",
-        "desc": "Production Laravel platform for restaurant and delivery operations, with REST APIs for web and mobile covering restaurants, orders, carts, and multilingual product content, plus Firebase push notifications and AI-powered features."
+      "rushlye": {
+        "title": "Rushlye",
+        "desc": "Laravel-based restaurant and delivery platform. Developed backend APIs, managed production deployment and server configuration, and configured Nginx, PHP-FPM, queues, CORS, DNS, and SSL for rushlye.com and the rushlye.app mobile experience."
       },
-      "nextjs": {
-        "title": "React / Next.js Web Application",
-        "desc": "React/Next.js frontend connected to Laravel APIs across separate domains, deployed with PM2 behind an Nginx reverse proxy, with CORS, environment configuration, and production troubleshooting."
+      "azalandstry": {
+        "title": "Azalandstry",
+        "desc": "Laravel backend development covering APIs, database-driven features, and application business logic, with deployment and troubleshooting handled in production environments."
       },
-      "admin": {
-        "title": "Laravel Administration & Business Systems",
-        "desc": "Laravel-based admin systems covering user and role management, CRUD modules, product and category management, localization, import/export, file handling, notifications, and queue-based background processing."
-      },
-      "whatsapp": {
-        "title": "WhatsApp / Node.js Integration",
-        "desc": "Node.js service integrated with Laravel applications for WhatsApp-related functionality, including custom API endpoints and MySQL database integration between the two systems."
+      "sahabgold": {
+        "title": "Sahab Gold",
+        "desc": "Backend development for sahab.gold, including APIs, database-driven functionality, and external service integrations, with ongoing production troubleshooting."
       }
     }
   },
@@ -92,7 +88,7 @@
         "company": "Alphabet for Information Technology",
         "role": "Backend Developer & DevOps Engineer",
         "period": "2 Years",
-        "desc": "Developed and maintained Laravel backend applications and RESTful APIs for web and mobile products. Implemented authentication, roles, permissions, queues, notifications, and third-party integrations including Firebase Cloud Messaging and SMTP. Deployed applications to Linux production servers, configuring Nginx, PHP-FPM, Supervisor, and PM2, and troubleshooting CORS, DNS, SMTP, database, and server configuration issues."
+        "desc": "Developed and maintained Laravel RESTful APIs and backend business logic using PHP, Eloquent ORM, authentication, queues, and notifications. Containerized applications with Docker and Docker Compose, and used Git, GitHub, and Docker Hub for source control and deployment workflows. Deployed applications to Linux production servers, configuring Nginx, PHP-FPM, Supervisor, and PM2, and troubleshooting CORS, DNS, SMTP, database, and server configuration issues."
       }
     }
   },

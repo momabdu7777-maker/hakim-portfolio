@@ -7,36 +7,28 @@ export default function Projects() {
 
   const projects = [
     {
-      title: t('projects.items.delivery.title'),
-      description: t('projects.items.delivery.desc'),
-      tech: ['Laravel', 'MySQL', 'REST APIs', 'Firebase FCM', 'Queues'],
+      title: t('projects.items.rushlye.title'),
+      description: t('projects.items.rushlye.desc'),
+      tech: ['Laravel', 'MySQL', 'REST APIs', 'Docker', 'Nginx'],
       github: 'https://github.com/momabdu7777-maker',
-      live: '#',
-      image: 'https://picsum.photos/seed/delivery/800/600',
+      live: 'https://rushlye.com',
+      image: 'https://picsum.photos/seed/rushlye/800/600',
     },
     {
-      title: t('projects.items.nextjs.title'),
-      description: t('projects.items.nextjs.desc'),
-      tech: ['React', 'Next.js', 'Laravel API', 'PM2', 'Nginx'],
+      title: t('projects.items.azalandstry.title'),
+      description: t('projects.items.azalandstry.desc'),
+      tech: ['Laravel', 'PHP', 'MySQL', 'REST APIs'],
       github: 'https://github.com/momabdu7777-maker',
       live: '#',
-      image: 'https://picsum.photos/seed/nextjs/800/600',
+      image: 'https://picsum.photos/seed/azalandstry/800/600',
     },
     {
-      title: t('projects.items.admin.title'),
-      description: t('projects.items.admin.desc'),
-      tech: ['Laravel', 'Eloquent ORM', 'MySQL', 'SMTP', 'Localization'],
+      title: t('projects.items.sahabgold.title'),
+      description: t('projects.items.sahabgold.desc'),
+      tech: ['Laravel', 'MySQL', 'REST APIs', 'Third-Party Integrations'],
       github: 'https://github.com/momabdu7777-maker',
-      live: '#',
-      image: 'https://picsum.photos/seed/admin/800/600',
-    },
-    {
-      title: t('projects.items.whatsapp.title'),
-      description: t('projects.items.whatsapp.desc'),
-      tech: ['Node.js', 'Laravel', 'MySQL', 'REST APIs'],
-      github: 'https://github.com/momabdu7777-maker',
-      live: '#',
-      image: 'https://picsum.photos/seed/whatsapp/800/600',
+      live: 'https://sahab.gold',
+      image: 'https://picsum.photos/seed/sahabgold/800/600',
     },
   ];
 
@@ -53,7 +45,7 @@ export default function Projects() {
           </p>
         </div>
 
-        <div className="grid md:grid-cols-2 gap-8">
+        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
           {projects.map((project, i) => (
             <motion.div
               key={project.title}
