@@ -1,20 +1,13 @@
 import { motion } from 'motion/react';
-import { Mail, Phone, MapPin, Send, Github, Linkedin, Twitter, Terminal, Code2, PenTool, Box, Image, Dribbble } from 'lucide-react';
+import { Mail, Phone, MapPin, Send, Github, Linkedin } from 'lucide-react';
 import { useTranslation } from 'react-i18next';
 
 export default function Contact() {
   const { t } = useTranslation();
 
   const socials = [
-    { icon: Github, href: 'https://github.com/hakim', label: 'GitHub' },
-    { icon: Linkedin, href: 'https://www.linkedin.com/in/hakim', label: 'LinkedIn' },
-    { icon: Twitter, href: 'https://x.com/hakim', label: 'X' },
-    { icon: Terminal, href: 'https://stackoverflow.com/users/hakim', label: 'Stack Overflow' },
-    { icon: Code2, href: 'https://dev.to/hakim', label: 'Dev.to' },
-    { icon: PenTool, href: 'https://medium.com/@hakim', label: 'Medium' },
-    { icon: Box, href: 'https://codepen.io/hakim', label: 'CodePen' },
-    { icon: Image, href: 'https://www.behance.net/hakim', label: 'Behance' },
-    { icon: Dribbble, href: 'https://dribbble.com/hakim', label: 'Dribbble' },
+    { icon: Github, href: 'https://github.com/momabdu7777-maker', label: 'GitHub' },
+    { icon: Linkedin, href: 'https://www.linkedin.com/in/mohammed-hakim', label: 'LinkedIn' },
   ];
 
   return (
@@ -40,7 +33,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <p className="text-sm font-medium text-slate-500 uppercase tracking-wider">{t('contact.info.email')}</p>
-                  <p className="text-lg font-bold">hakim@gmail.com</p>
+                  <p className="text-lg font-bold">momabdu7777@gmail.com</p>
                 </div>
               </div>
 
@@ -50,7 +43,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <p className="text-sm font-medium text-slate-500 uppercase tracking-wider">{t('contact.info.phone')}</p>
-                  <a href="tel:+967776248526" className="text-lg font-bold hover:text-emerald-500 transition-colors">+967 776 248 526</a>
+                  <a href="tel:+967772025992" className="text-lg font-bold hover:text-emerald-500 transition-colors">+967 772 025 992</a>
                 </div>
               </div>
 
@@ -60,7 +53,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <p className="text-sm font-medium text-slate-500 uppercase tracking-wider">{t('contact.info.location')}</p>
-                  <p className="text-lg font-bold">Yemen</p>
+                  <p className="text-lg font-bold">Al Mukalla, Hadhramaut, Yemen</p>
                 </div>
               </div>
             </div>

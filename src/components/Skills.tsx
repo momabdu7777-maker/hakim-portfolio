@@ -9,22 +9,22 @@ export default function Skills() {
     {
       title: t('skills.categories.backend'),
       icon: <Server className="text-emerald-500" />,
-      skills: ['Django', 'Laravel', '.NET', 'Node.js', 'NestJS', 'REST APIs', 'Microservices'],
+      skills: ['PHP', 'Laravel 10/11/12', 'RESTful APIs', 'Eloquent ORM', 'Queues & Jobs', 'Notifications', 'Localization'],
     },
     {
       title: t('skills.categories.frontend'),
       icon: <Layout className="text-blue-500" />,
-      skills: ['Vue.js', 'Nuxt.js', 'Tailwind CSS', 'JavaScript', 'TypeScript', 'HTML', 'CSS'],
+      skills: ['JavaScript', 'React', 'Next.js', 'Vue.js', 'Blade', 'Bootstrap', 'HTML/CSS'],
     },
     {
       title: t('skills.categories.databases'),
       icon: <Database className="text-purple-500" />,
-      skills: ['MySQL', 'PostgreSQL', 'SQL databases', 'Database optimization'],
+      skills: ['MySQL', 'SQL', 'Database Design', 'Migrations', 'Query Optimization'],
     },
     {
       title: t('skills.categories.devops'),
       icon: <Terminal className="text-orange-500" />,
-      skills: ['Git', 'Linux', 'Windows', 'API integrations', 'Payment gateways', 'Cloud hosting'],
+      skills: ['Linux', 'Nginx', 'PHP-FPM', 'Supervisor', 'PM2', 'Node.js', 'DNS & SSL', 'Git', 'Composer'],
     },
   ];
 

@@ -1,22 +1,15 @@
 import { motion } from 'motion/react';
-import { ArrowRight, Github, Linkedin, Twitter, Globe, Code2, Terminal, PenTool, Box, Image, Dribbble, Mail, Phone } from 'lucide-react';
+import { ArrowRight, Github, Linkedin, Mail, Phone } from 'lucide-react';
 import { useTranslation } from 'react-i18next';
 
 export default function Hero() {
   const { t } = useTranslation();
 
   const socials = [
-    { icon: Github, href: 'https://github.com/hakim', label: 'GitHub' },
-    { icon: Linkedin, href: 'https://www.linkedin.com/in/hakim', label: 'LinkedIn' },
-    { icon: Twitter, href: 'https://x.com/hakim', label: 'X' },
-    { icon: Terminal, href: 'https://stackoverflow.com/users/hakim', label: 'Stack Overflow' },
-    { icon: Code2, href: 'https://dev.to/hakim', label: 'Dev.to' },
-    { icon: PenTool, href: 'https://medium.com/@hakim', label: 'Medium' },
-    { icon: Box, href: 'https://codepen.io/hakim', label: 'CodePen' },
-    { icon: Image, href: 'https://www.behance.net/hakim', label: 'Behance' },
-    { icon: Dribbble, href: 'https://dribbble.com/hakim', label: 'Dribbble' },
-    { icon: Mail, href: 'mailto:hakim@gmail.com', label: 'Email' },
-    { icon: Phone, href: 'tel:+967776248526', label: 'Phone' },
+    { icon: Github, href: 'https://github.com/momabdu7777-maker', label: 'GitHub' },
+    { icon: Linkedin, href: 'https://www.linkedin.com/in/mohammed-hakim', label: 'LinkedIn' },
+    { icon: Mail, href: 'mailto:momabdu7777@gmail.com', label: 'Email' },
+    { icon: Phone, href: 'tel:+967772025992', label: 'Phone' },
   ];
 
   return (

@@ -7,80 +7,80 @@
     "blog": "Blog"
   },
   "hero": {
-    "tag": "Full Stack Software Developer",
-    "title": "Building Scalable Digital Systems",
-    "name": "Mohammed AbdullhakimnAgrah",
-    "desc": "Senior Full Stack Developer and Systems Architect with 10+ years of experience specializing in backend architecture, high-performance APIs, and scalable web applications.",
+    "tag": "Laravel Backend Developer | DevOps Engineer",
+    "title": "Building Reliable Backend Systems",
+    "name": "Mohammed Hakim Awad Ajrah",
+    "desc": "Laravel Backend Developer and DevOps Engineer with 2 years of hands-on experience in backend development, RESTful APIs, Linux server administration, and production troubleshooting.",
     "viewProjects": "View Projects",
     "contactMe": "Contact Me"
   },
   "about": {
     "tag": "About Me",
-    "title": "Architecting robust systems for the modern web.",
-    "p1": "I am Mohammed AbdullhakimnAgrah, a Full Stack Software Developer with more than 10 years of experience. I specialize primarily in backend development, system architecture, and building scalable web applications that stand the test of time.",
-    "p2": "My expertise spans multiple programming languages and frameworks, with a proven track record of building modern web platforms, e-commerce systems, robust APIs, and microservices. I am deeply passionate about clean code, design patterns, performance optimization, and Big O analysis.",
+    "title": "Building and running backend systems end to end.",
+    "p1": "I am Mohammed Hakim Awad Ajrah, a Laravel Backend Developer and DevOps Engineer with 2 years of hands-on professional experience in backend development, RESTful API development, server deployment, Linux administration, and production troubleshooting.",
+    "p2": "I build and maintain Laravel applications, develop APIs, integrate third-party services, manage MySQL databases, configure Nginx and PHP-FPM, deploy applications to Linux servers, and troubleshoot complex production issues across the full stack.",
     "stats": {
       "years": "Years Experience",
-      "projects": "Projects Completed",
-      "clients": "Happy Clients",
-      "code": "Lines of Code"
+      "projects": "Production Projects",
+      "clients": "Third-Party Integrations",
+      "code": "Technologies Used"
     },
     "features": {
-      "f1": "System Architecture",
-      "f2": "Backend Excellence",
-      "f3": "E-commerce Solutions",
-      "f4": "Performance Tuning"
+      "f1": "Laravel & REST APIs",
+      "f2": "Linux Server Administration",
+      "f3": "Production Deployment",
+      "f4": "Production Troubleshooting"
     },
     "philosophy": {
       "title": "My Philosophy",
-      "p1": "I believe that great software is built on a foundation of maintainability and scalability. My approach focuses on performance optimization and the implementation of robust design patterns to solve complex architectural challenges.",
-      "p2": "Whether it's transitioning legacy systems to modern architectures or building microservices from scratch, I prioritize clean code and system resilience to ensure long-term success."
+      "p1": "I believe reliable software goes beyond writing code - it means owning the system all the way to production. My approach focuses on clean Laravel architecture backed by servers that are configured, monitored, and troubleshot with care.",
+      "p2": "Whether it's building a REST API, integrating a third-party service, or diagnosing a production outage, I prioritize practical solutions and clear communication between backend and frontend teams."
     },
     "values": {
       "title": "Core Values",
-      "v1": "Scalability by Design",
-      "v2": "Clean Code Standards",
-      "v3": "Performance Optimization",
-      "v4": "Architectural Integrity",
-      "v5": "Continuous Innovation"
+      "v1": "Backend Reliability",
+      "v2": "Clean Laravel Code",
+      "v3": "Production Ownership",
+      "v4": "Clear Debugging",
+      "v5": "Continuous Learning"
     }
   },
   "skills": {
     "tag": "Expertise",
     "title": "Technical Skillset",
     "categories": {
-      "backend": "Backend & Architecture",
-      "frontend": "Frontend Development",
-      "databases": "Databases & Optimization",
-      "devops": "Tools & Infrastructure"
+      "backend": "Backend Development",
+      "frontend": "Frontend & Web",
+      "databases": "Databases",
+      "devops": "DevOps & Server Administration"
     }
   },
   "projects": {
     "tag": "Portfolio",
     "title": "Featured Projects",
-    "desc": "A showcase of my work in building scalable applications, e-commerce integrations, and specialized web tools.",
+    "desc": "A showcase of my work building Laravel APIs, deploying production servers, and integrating backend systems with modern frontends.",
     "viewAll": "View All Projects",
     "more": {
       "title": "Looking for more?",
-      "desc": "I have worked on numerous software systems including desktop applications, AI-powered tools, and complex CMS platforms. Let's discuss how my experience can help your project.",
+      "desc": "I have worked on delivery platforms, admin systems, and Node.js integrations, alongside deploying and maintaining the Linux servers that run them. Let's discuss how my experience can help your project.",
       "github": "Visit My GitHub"
     },
     "items": {
-      "ecommerce": {
-        "title": "nopCommerce Integrations",
-        "desc": "Building custom payment and shipping integrations for nopCommerce and Smartstore platforms."
+      "delivery": {
+        "title": "Laravel Delivery & Restaurant Platform",
+        "desc": "Production Laravel platform for restaurant and delivery operations, with REST APIs for web and mobile covering restaurants, orders, carts, and multilingual product content, plus Firebase push notifications and AI-powered features."
       },
-      "ai": {
-        "title": "AI Background Remover",
-        "desc": "Web application built with Python, Flask, and rembg for automatic image background removal."
+      "nextjs": {
+        "title": "React / Next.js Web Application",
+        "desc": "React/Next.js frontend connected to Laravel APIs across separate domains, deployed with PM2 behind an Nginx reverse proxy, with CORS, environment configuration, and production troubleshooting."
       },
-      "university": {
-        "title": "University CMS Systems",
-        "desc": "Architected and built the Ahgaff University website using .NET/Umbraco, later transitioned to Python/Django."
+      "admin": {
+        "title": "Laravel Administration & Business Systems",
+        "desc": "Laravel-based admin systems covering user and role management, CRUD modules, product and category management, localization, import/export, file handling, notifications, and queue-based background processing."
       },
-      "microservices": {
-        "title": "SrmedEco Platform",
-        "desc": "A microservices-based e-commerce system providing digital solutions and complex integrations."
+      "whatsapp": {
+        "title": "WhatsApp / Node.js Integration",
+        "desc": "Node.js service integrated with Laravel applications for WhatsApp-related functionality, including custom API endpoints and MySQL database integration between the two systems."
       }
     }
   },
@@ -89,35 +89,17 @@
     "title": "Professional Experience",
     "items": {
       "exp1": {
-        "company": "Madboot Nova",
-        "role": "Senior Software Engineer",
-        "period": "Present",
-        "desc": "Providing software systems, hosting services, and e-commerce solutions. Leading web development and architectural design for diverse client needs."
-      },
-      "exp2": {
-        "company": "SrmedEco",
-        "role": "Full Stack Developer / Architect",
-        "period": "2018 - 2022",
-        "desc": "Developed a microservices-based e-commerce platform. Focused on digital solutions, API integrations, and system scalability."
-      },
-      "exp3": {
-        "company": "Ahgaff University",
-        "role": "Lead Web Developer",
-        "period": "2014 - 2018",
-        "desc": "Built the university website using .NET and Umbraco. Later led the transition to a modern system using Python and Django."
-      },
-      "exp4": {
-        "company": "Freelance / Consulting",
-        "role": "Software Developer",
-        "period": "2012 - 2014",
-        "desc": "Worked on various web applications, custom plugins for payment/shipping providers, and desktop applications."
+        "company": "Alphabet for Information Technology",
+        "role": "Backend Developer & DevOps Engineer",
+        "period": "2 Years",
+        "desc": "Developed and maintained Laravel backend applications and RESTful APIs for web and mobile products. Implemented authentication, roles, permissions, queues, notifications, and third-party integrations including Firebase Cloud Messaging and SMTP. Deployed applications to Linux production servers, configuring Nginx, PHP-FPM, Supervisor, and PM2, and troubleshooting CORS, DNS, SMTP, database, and server configuration issues."
       }
     }
   },
   "contact": {
     "tag": "Contact",
-    "title": "Let's build something scalable together.",
-    "desc": "I am available for senior-level roles, architectural consulting, and high-impact software projects.",
+    "title": "Let's build something reliable together.",
+    "desc": "I am available for Laravel backend development, REST API development, Linux server administration, and DevOps roles.",
     "info": {
       "email": "Email Me",
       "phone": "Call Me",
@@ -129,8 +111,8 @@
       "subject": "Subject",
       "message": "Message",
       "placeholder": {
-        "name": "Mohammed AbdullhakimnAgrah",
-        "email": "hakim@gmail.com",
+        "name": "Mohammed Hakim",
+        "email": "momabdu7777@gmail.com",
         "subject": "Project Inquiry",
         "message": "Tell me about your project needs..."
       },
@@ -139,7 +121,7 @@
     "extra": {
       "availability": {
         "title": "Availability",
-        "desc": "Open to senior backend-focused roles and system architecture consulting."
+        "desc": "Open to Laravel backend development, DevOps, and production support roles."
       },
       "response": {
         "title": "Response Time",
@@ -153,24 +135,24 @@
   },
   "blog": {
     "title": "Insights & Articles",
-    "desc": "Thoughts on software engineering, architecture, and technology.",
+    "desc": "Thoughts on Laravel backend development, DevOps, and server administration.",
     "readMore": "Read More",
     "backToBlog": "Back to Blog",
     "sharePost": "Share this post",
     "posts": {
       "p1": {
-        "title": "Scaling E-commerce with nopCommerce Integrations",
-        "excerpt": "Exploring best practices for building custom payment and shipping integrations...",
-        "category": "E-commerce"
+        "title": "Deploying Laravel to Production on Linux",
+        "excerpt": "Notes on configuring Nginx, PHP-FPM, Supervisor, and queue workers for a production Laravel app...",
+        "category": "DevOps"
       },
       "p2": {
-        "title": "Modernizing University Systems: .NET to Django",
-        "excerpt": "A case study on transitioning large-scale CMS systems to modern architectures...",
-        "category": "Architecture"
+        "title": "Connecting a Next.js Frontend to a Laravel API",
+        "excerpt": "Lessons learned handling CORS, reverse proxies, and PM2 when frontend and backend live on separate domains...",
+        "category": "Integration"
       },
       "p3": {
-        "title": "Microservices Architecture for Scalable Platforms",
-        "excerpt": "Deep dive into building resilient and maintainable microservices systems...",
+        "title": "Debugging Production Issues in Laravel",
+        "excerpt": "A practical look at diagnosing database, queue, and server configuration failures in production...",
         "category": "Backend"
       }
     }

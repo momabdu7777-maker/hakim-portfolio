@@ -56,7 +56,7 @@ export default function Navbar() {
           animate={{ opacity: 1, x: 0 }}
         >
           <Link to="/" className="text-2xl font-display font-bold tracking-tighter">
-            AK01<span className="text-emerald-500">.</span>REDWAN
+            MOHAMMED<span className="text-emerald-500">.</span>HAKIM
           </Link>
         </motion.div>
 

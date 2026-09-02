@@ -33,11 +33,11 @@ export default function Home() {
           </div>
           <div className="grid grid-cols-2 gap-4">
             <div className="p-6 bg-white dark:bg-slate-950 rounded-2xl shadow-sm border border-slate-100 dark:border-slate-800 text-center">
-              <div className="text-3xl font-bold text-emerald-500">150+</div>
+              <div className="text-3xl font-bold text-emerald-500">10+</div>
               <div className="text-xs uppercase tracking-widest text-slate-500 mt-1">{t('about.stats.projects')}</div>
             </div>
             <div className="p-6 bg-white dark:bg-slate-950 rounded-2xl shadow-sm border border-slate-100 dark:border-slate-800 text-center">
-              <div className="text-3xl font-bold text-blue-500">10+</div>
+              <div className="text-3xl font-bold text-blue-500">2+</div>
               <div className="text-xs uppercase tracking-widest text-slate-500 mt-1">{t('about.stats.years')}</div>
             </div>
           </div>

@@ -12,24 +12,6 @@ export default function Experience() {
       period: t('experience.items.exp1.period'),
       description: t('experience.items.exp1.desc'),
     },
-    {
-      company: t('experience.items.exp2.company'),
-      role: t('experience.items.exp2.role'),
-      period: t('experience.items.exp2.period'),
-      description: t('experience.items.exp2.desc'),
-    },
-    {
-      company: t('experience.items.exp3.company'),
-      role: t('experience.items.exp3.role'),
-      period: t('experience.items.exp3.period'),
-      description: t('experience.items.exp3.desc'),
-    },
-    {
-      company: t('experience.items.exp4.company'),
-      role: t('experience.items.exp4.role'),
-      period: t('experience.items.exp4.period'),
-      description: t('experience.items.exp4.desc'),
-    },
   ];
 
   return (
