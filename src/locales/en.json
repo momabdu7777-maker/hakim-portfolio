@@ -70,9 +70,9 @@
         "title": "Rushlye",
         "desc": "Laravel-based restaurant and delivery platform. Developed backend APIs, managed production deployment and server configuration, and configured Nginx, PHP-FPM, queues, CORS, DNS, and SSL for rushlye.com and the rushlye.app mobile experience."
       },
-      "azalandstry": {
-        "title": "Azalandstry",
-        "desc": "Laravel backend development covering APIs, database-driven features, and application business logic, with deployment and troubleshooting handled in production environments."
+      "azalindustry": {
+        "title": "Azal Industry",
+        "desc": "Laravel backend development for azalindustry.com, covering APIs, database-driven features, and application business logic, with deployment and troubleshooting handled in production environments."
       },
       "sahabgold": {
         "title": "Sahab Gold",

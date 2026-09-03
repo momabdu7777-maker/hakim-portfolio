@@ -11,24 +11,24 @@ export default function Projects() {
       description: t('projects.items.rushlye.desc'),
       tech: ['Laravel', 'MySQL', 'REST APIs', 'Docker', 'Nginx'],
       github: 'https://github.com/momabdu7777-maker',
-      live: 'https://rushlye.com',
-      image: 'https://picsum.photos/seed/rushlye/800/600',
+      live: 'https://rushlye.com/',
+      image: '/project-rushlye.jpg',
     },
     {
-      title: t('projects.items.azalandstry.title'),
-      description: t('projects.items.azalandstry.desc'),
+      title: t('projects.items.azalindustry.title'),
+      description: t('projects.items.azalindustry.desc'),
       tech: ['Laravel', 'PHP', 'MySQL', 'REST APIs'],
       github: 'https://github.com/momabdu7777-maker',
-      live: '#',
-      image: 'https://picsum.photos/seed/azalandstry/800/600',
+      live: 'http://azalindustry.com/',
+      image: '/project-azalindustry.jpg',
     },
     {
       title: t('projects.items.sahabgold.title'),
       description: t('projects.items.sahabgold.desc'),
       tech: ['Laravel', 'MySQL', 'REST APIs', 'Third-Party Integrations'],
       github: 'https://github.com/momabdu7777-maker',
-      live: 'https://sahab.gold',
-      image: 'https://picsum.photos/seed/sahabgold/800/600',
+      live: 'https://sahab.gold/',
+      image: '/project-sahabgold.jpg',
     },
   ];
 
@@ -56,10 +56,10 @@ export default function Projects() {
               transition={{ duration: 0.5, delay: i * 0.1 }}
             >
               <div className="relative h-64 overflow-hidden">
-                <img 
-                  src={project.image} 
-                  alt={project.title} 
-                  className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
+                <img
+                  src={project.image}
+                  alt={project.title}
+                  className="w-full h-full object-cover object-top group-hover:scale-110 transition-transform duration-500"
                   referrerPolicy="no-referrer"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-slate-950/60 to-transparent opacity-0 group-hover:opacity-100 transition-opacity flex items-end p-8">
